@@ -1,3 +1,2 @@
-# Chatter App Challenge
-
-## Starter Pack for Week 1
+## Chatter App Challenge
+### Starter Pack for Week 1
